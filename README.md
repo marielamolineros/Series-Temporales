@@ -19,4 +19,4 @@ Este proyecto analiza las tendencias de ventas de cigarrillos en las provincias 
 - `data/`: Directorio que contiene el dataset utilizado.
 - `scripts/`: Código fuente en R utilizado para el análisis y las predicciones.
 - `docs/`: Documentación adicional y gráficos generados.
-- `README.md`: Información sobre el proyecto, cómo ejecutar el código y cómo contribuir.
+- `README.md`: Presentación.
