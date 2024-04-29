@@ -22,5 +22,5 @@ Este proyecto analiza las tendencias de ventas de cigarrillos en las provincias 
 - `README.md`: Presentación.
 
 ## Contacto
-LinkedIn: www.linkedin.com/in/marielamolineros
-Correo: mariela.molineros@hotmail.com
+- LinkedIn: www.linkedin.com/in/marielamolineros
+- Correo: mariela.molineros@hotmail.com
