@@ -20,3 +20,7 @@ Este proyecto analiza las tendencias de ventas de cigarrillos en las provincias 
 - `scripts/`: Código fuente en R utilizado para el análisis y las predicciones.
 - `docs/`: Documentación adicional y gráficos generados.
 - `README.md`: Presentación.
+
+## Contacto
+LinkedIn: www.linkedin.com/in/marielamolineros
+Correo: mariela.molineros@hotmail.com
