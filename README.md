@@ -1,6 +1,6 @@
 # Análisis de Series Temporales: Ventas de Cigarrillos en España
 
-[Ver resultados](https://github.com/marielamolineros/Series-Temporales/blob/main/Ana%CC%81lisis%20de%20Series%20Temporales.pdf)
+[Ver resultados](https://github.com/marielamolineros/Series-Temporales/blob/main/Ana%CC%81lisis%20de%20Series%20Temporales.md)
 
 ## Descripción
 Este proyecto analiza las tendencias de ventas de cigarrillos en las provincias de España desde 2005 hasta 2021. Utilizamos técnicas avanzadas de análisis de series temporales para identificar patrones, predecir futuras ventas y entender el impacto de eventos externos como la COVID-19 en las tendencias de consumo.
